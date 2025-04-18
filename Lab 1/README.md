@@ -1,6 +1,6 @@
 # Lab 1: Wine Quality Analysis
 
-Here’s what’s in this folder:
+Files in this Lab:
 
 - **Datasets**
   - `winequality-red.csv`
